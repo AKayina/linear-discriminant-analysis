@@ -1,4 +1,4 @@
-## Linear Discriminant Analysis (LDA) Visualization with Manim
+## Linear Discriminant Analysis (LDA) Visualization
 
 
 The visualization of LDA includes a dataset with healthy and unhealthy classifications, 
