@@ -2,7 +2,7 @@
 
 
 The visualization of LDA includes a dataset with healthy and unhealthy classifications, 
-a decision boundary derived using LDA, and animations mapping points to the decision boundary.
+a decision boundary created using LDA, and animations mapping data points to the decision boundary.
 
 
 ### 🛠 Installation
