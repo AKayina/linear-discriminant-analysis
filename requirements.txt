@@ -1,0 +1,5 @@
+manim==0.18.1
+-e git+https://github.com/3b1b/manim.git@39fbb677dcc86fc32075249e66a3cbaba508aa7b#egg=manimgl
+matplotlib==3.10.0
+numpy==2.2.0
+scikit-learn==1.6.0
